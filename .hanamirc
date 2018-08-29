@@ -1,0 +1,3 @@
+project=nibbler
+test=minitest
+template=erb
